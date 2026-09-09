@@ -10,7 +10,7 @@ The raw dataset is sourced from the Maven Analytics Data Playground (Maven Toys 
 The database is designed using four relational tables connected through Primary Keys (PK) and Foreign Keys (FK) to support sales performance analysis.
 
 <p align="center">
-  <img src="images/erd-schema.png" alt="Toy Store Database ERD" width="700">
+  <img src="erd-schema.png" alt="Toy Store Database ERD" width="700">
 </p>
 
 ### Table Overview
