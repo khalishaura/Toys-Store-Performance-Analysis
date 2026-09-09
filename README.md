@@ -29,7 +29,38 @@ The database is designed using four relational tables connected through Primary 
 - **`stores` → `inventory` (1:N):** One store can have inventory records for multiple products.
 - **`products` → `inventory` (1:N):** One product can have inventory records across multiple stores.
 
+## Analysis Process
 
+The analysis was conducted using several approaches.
+
+### 1. Overall Performance Analysis
+Calculated key performance indicators (KPIs), including:
+- Total Revenue
+- Total Profit
+- Profit Margin
+- Total Units Sold
+- Total Transactions
+
+### 2. Store Location Analysis
+Grouped the data by store location to compare:
+- Revenue
+- Profit
+- Total Units Sold
+- Profit Margin
+
+### 3. Product Analysis
+Analyzed product performance by category and product name to compare:
+- Revenue
+- Profit
+- Total Units Sold
+- Profit Margin
+
+The analysis focused on:
+- **Product Category:** Identifying the best-performing product categories.
+- **Product Name:** Identifying individual products that contributed the most to sales.
+
+### 4. Monthly Trend Analysis
+Calculated monthly revenue and analyzed revenue growth compared with the previous month.
 
 
 # 
