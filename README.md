@@ -42,25 +42,14 @@ Calculated key performance indicators (KPIs), including:
 - Total Transactions
 
 ### 2. Store Location Analysis
-Grouped the data by store location to compare:
-- Revenue
-- Profit
-- Total Units Sold
-- Profit Margin
+Grouped the data by store location to compare revenue, profit, total units sold, and profit margin. 
 
 ### 3. Product Analysis
-Analyzed product performance by category and product name to compare:
-- Revenue
-- Profit
-- Total Units Sold
-- Profit Margin
-
+Analyzed product performance by category and product name to compare revenue, profit, total units sold, and profit margin. 
 The analysis focused on:
 - **Product Category:** Identifying the best-performing product categories.
 - **Product Name:** Identifying individual products that contributed the most to sales.
 
 ### 4. Monthly Trend Analysis
 Calculated monthly revenue and analyzed revenue growth compared with the previous month.
-
-
 # 
