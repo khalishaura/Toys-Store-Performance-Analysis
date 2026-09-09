@@ -17,7 +17,7 @@ The database is designed using four relational tables connected through **Primar
 
 | Table | Primary Key | Description |
 |-------|-------------|-------------|
-| `products` | `product_id` | Stores product information, including category, cost, and selling price. |
+| products | `product_id` | Stores product information, including category, cost, and selling price. |
 | `stores` | `store_id` | Stores information about each store, including city and location type. |
 | `sales` | `sale_id` | Records individual sales transactions and links products with stores. |
 | `inventory` | (`store_id`, `product_id`) | Stores the stock quantity of each product in every store. |
