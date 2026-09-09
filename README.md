@@ -7,7 +7,7 @@ This project analyzes sales performance for a toy retail business using PostgreS
 The raw dataset is sourced from the Maven Analytics Data Playground (Maven Toys Dataset).  
 
 # Data Preparation 
-The database is designed using four relational tables connected through **Primary Keys (PK)** and **Foreign Keys (FK)** to support sales performance analysis.
+The database is designed using four relational tables connected through Primary Keys (PK) and Foreign Keys (FK) to support sales performance analysis.
 
 <p align="center">
   <img src="images/erd-schema.png" alt="Toy Store Database ERD" width="700">
