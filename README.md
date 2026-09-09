@@ -1,4 +1,4 @@
-# Toy Store Sales Performance
+# Toy Store Sales Performance Analysis 
 
 # Project Overview 
 This project analyzes sales performance for a toy retail business using PostgreSQL for data analysis and preparation, followed by Power BI for interactive dashboard visualization. The objective is to transform raw transactional data into actionable business insights by evaluating revenue, profitability, product performance, store performance, and sales trends over time.
